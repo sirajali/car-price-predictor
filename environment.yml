@@ -1,0 +1,12 @@
+name: kaggle
+channels:
+    - default
+dependencies:
+    - jupyterlab
+    - matplotlib
+    - numpy
+    - python=3.8
+    - pandas
+    - scipy
+    - scikit-learn
+    - seaborn
