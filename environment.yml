@@ -5,8 +5,9 @@ dependencies:
     - jupyterlab
     - matplotlib
     - numpy
-    - python=3.8
     - pandas
+    - pyarrow
+    - python=3.8
     - scipy
     - scikit-learn
     - seaborn
