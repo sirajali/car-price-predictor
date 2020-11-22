@@ -53,19 +53,19 @@ This notebook contains data cleaning and feature engineering, in preparation for
 
 ### Model_Fit.ipynb
 
-This notebook contains the bulk of the exercise. It's further organized into multiple parts:
+This notebook contains the bulk of the exercise. It's further organized into multgit pushiple parts:
 
 1. A stratified train-test split of the data
 2. Generalized Linear Regression modelling
   a. Model fitting
   b. Model evaluation
   c. Validating assumptions (or violations of assumptions) of linear regression
-3. Gradient Boosted Machine regression moddeling
-  a. Hyperparameter tuning via gridsearch
-  b. Model fitting
-  c. Model evaluation
-  d. Residual analysis
-  e. Feature importances
+3. Gradient Boosted Machine regression moddeling  
+  a. Hyperparameter tuning via gridsearch  
+  b. Model fitting  
+  c. Model evaluation  
+  d. Residual analysis  
+  e. Feature importances  
 4. Closing remarks and theoretical next steps
 
 ---
