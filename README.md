@@ -57,15 +57,15 @@ This notebook contains the bulk of the exercise. It's further organized into mul
 
 1. A stratified train-test split of the data
 2. Generalized Linear Regression modelling
-  * Model fitting
-  * Model evaluation
-  * Validating assumptions (or violations of assumptions) of linear regression
+  a. Model fitting
+  b. Model evaluation
+  c. Validating assumptions (or violations of assumptions) of linear regression
 3. Gradient Boosted Machine regression moddeling
-  * Hyperparameter tuning via gridsearch
-  * Model fitting
-  * Model evaluation
-  * Residual analysis
-  * Feature importances
+  a. Hyperparameter tuning via gridsearch
+  b. Model fitting
+  c. Model evaluation
+  d. Residual analysis
+  e. Feature importances
 4. Closing remarks and theoretical next steps
 
 ---
