@@ -2,11 +2,11 @@ name: kaggle
 channels:
     - default
 dependencies:
-    - jupyterlab
+    - jupyterlab=2.2.6
     - matplotlib
     - numpy
     - pandas
-    - pyarrow
+    - pyarrow=2.0.0
     - python=3.8
     - scipy
     - scikit-learn
